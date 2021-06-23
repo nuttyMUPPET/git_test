@@ -1,0 +1,1 @@
+This is nuttyMUPPET's first Git project!
